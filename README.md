@@ -1,2 +1,2 @@
 # swolibs
-Test pour application SWO3
+Test pour application SWO360
